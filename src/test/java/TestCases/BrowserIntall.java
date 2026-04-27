@@ -36,7 +36,7 @@ public class BrowserIntall {
 page.click("input[value='sunday']");
         // Step 7: Close browser (optional)
        // browser.close();
-
+//chinnu
         // Step 8: Stop Playwright engine
        // playwright.close();
     }
